@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Creating" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="174" x="2242" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="eg.edu.alexu.csd.oop.db.cs09.TInserter" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="174" x="3025" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Exepretion" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/ParserData.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="174" x="4538" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Updating" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="174" x="1698" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="eg.edu.alexu.csd.oop.db.cs09.BuildTable" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="337" x="1321" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="eg.edu.alexu.csd.oop.db.cs09.TablePlan" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="174" x="2542" y="1312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="7" language="java" name="eg.edu.alexu.csd.oop.db.cs09.TDeleter" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="174" x="3302" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Create" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/Create.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="174" x="360" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="eg.edu.alexu.csd.oop.db.cs09.TBuilder" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="174" x="2328" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="10" language="java" name="eg.edu.alexu.csd.oop.db.cs09.TUpdater" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="174" x="1805" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Build" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="214" x="2456" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="eg.edu.alexu.csd.oop.db.cs09.BuildTab" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="337" x="1321" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="13" language="java" name="eg.edu.alexu.csd.oop.db.cs09.ItemElement" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/NodeElements.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="243" x="4867" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Deleting" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="174" x="3553" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Insert" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="301" x="2710" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Table" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="174" x="2542" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Delete" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="248" x="3051" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Update" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="304" width="290" x="1912" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="eg.edu.alexu.csd.oop.db.cs09.UI" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/UI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="174" x="3767" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="eg.edu.alexu.csd.oop.db.Database" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/Database.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="251" x="3874" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Inserting" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/BuildTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="174" x="3339" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="eg.edu.alexu.csd.oop.db.cs09.DB" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/DB.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="251" x="3981" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="eg.edu.alexu.csd.oop.db.cs09.GetFromTable1" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/NodeElements.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="226" x="4272" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="eg.edu.alexu.csd.oop.db.cs09.ParserData" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/ParserData.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="988" width="289" x="4538" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="eg.edu.alexu.csd.oop.db.cs09.NodeElements" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/NodeElements.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="254" x="4867" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Visitor" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/NodeElements.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="226" x="4272" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="eg.edu.alexu.csd.oop.db.cs09.Selected" 
+    project="OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded" 
+    file="/OOP_TAs-oop-course-projects-b15818ce512d.zip_expanded/OOP_TAs-oop-course-projects-b15818ce512d/src/eg/edu/alexu/csd/oop/db/cs09/Selected.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="707" x="574" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="28">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="29" name="table"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="32" name="table"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="35" name="db"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="37">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="38">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="39" name="table"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <association id="42">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="43" name="TBuilder"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="46" name="tUpdater"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="48">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <realization id="49">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <association id="50">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="51" name="tInserter"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="54" name="table"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="56">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="57">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <realization id="58">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="59">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="60" name="tDeleter"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="62">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="63">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <realization id="64">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
